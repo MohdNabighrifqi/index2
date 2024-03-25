@@ -1,0 +1,68 @@
+body{
+    background-color: rgb(255, 169, 111);
+    background-repeat: no-repeat;
+}
+
+
+#judul{
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    text-align: center;
+    margin: 0;
+    font-size: 30px;
+    background-color: rgb(255, 128, 0);
+}
+
+table{
+    display: inline-block;
+}
+
+#jd1{
+    text-align: center;
+}
+
+#member{
+    width: 80px;
+    display: inline-block;
+}   
+
+#mJenis{
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    text-align: center;
+    display: inline-block;
+    cursor: pointer;
+}
+
+#mBeratBadan{
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    text-align: center;
+    display: inline-block;
+    cursor: pointer;
+}
+
+#mTinggiBadan{
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    text-align: center;
+    display: inline-block;
+    cursor: pointer;
+}
+
+#mUsiaHarapanHidup{
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    text-align: center;
+    display: inline-block;
+    cursor: pointer;
+}
+
+.left-div {
+    width: 100px;
+    display: inline-block;
+}
